@@ -1,0 +1,10 @@
+flet==0.23.2
+pymupdf==1.23.8
+pytesseract==0.3.10
+pillow==10.2.0
+open-tamil==1.0
+pathvalidate==3.2.0
+langdetect==1.0.9
+pydantic==2.5.3
+tqdm==4.66.1
+pyinstaller==6.3.0
